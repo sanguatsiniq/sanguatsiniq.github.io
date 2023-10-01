@@ -1,3 +1,3 @@
 # Sanguatsiniq
 
-Website for the *Sanguatsiniq* (Turning) research project.
+Website for the *Sanguatsiniq* research project.
